@@ -1,0 +1,15 @@
+#!/bin/bash
+variable k1=0.1, mutatable
+variable k2=0.1, mutatable
+variable k3=0.1, mutatable
+variable k4=0.1, mutatable
+variable k5=0.1
+variable k6=0.1
+#
+P1 + E1 > P2 + E1, k1
+P2 + E2 > P3 + E2, k2
+P3 + E1 > P3E1, k3
+P3E1 > P3 + E1, k4
+p1 > p1 + P1, k5
+P1 > , k6
+
