@@ -1,9 +1,9 @@
 EvoStat
 =======
 
-EvoStat is a reaction simulator generates biochemical circuits with desired functions. 
+EvoStat is a reaction simulator that generates biochemical circuits with desired functions. 
 
-Requires: SUNDIALS ODE Solver (libsundials-serial-dev package on Ubuntu), Boost libraries, GNU Scientific Library (GSL)
+Requires: SUNDIALS ODE Solver (libsundials-serial-dev package on Ubuntu), Boost libraries, GNU Scientific Library (GSL), Open-MPI
 
 Run sundial-config to get required linker flags. 
 
