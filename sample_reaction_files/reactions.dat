@@ -1,4 +1,3 @@
-#!/bin/bash
 variable k1=0.1, mutatable
 variable k2=0.1, mutatable
 variable k3=0.1, mutatable
