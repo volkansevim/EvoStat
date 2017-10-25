@@ -1,4 +1,3 @@
-#!/bin/bash
 #R. NAME,  TYPE,  INITIAL COND.,  RECORD?
 #Time series for reactant is recorded if column 4 is "r" or "R"
 P1, PROTEIN, 10, R
