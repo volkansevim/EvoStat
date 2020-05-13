@@ -1,7 +1,7 @@
-EvoStat
+SilicoStat
 =======
 
-EvoStat is a reaction simulator that generates biochemical circuits with desired functions. 
+SilicoStat is a reaction simulator that generates biochemical circuits with desired functions. 
 
 Requires: SUNDIALS ODE Solver (libsundials-serial-dev package on Ubuntu), Boost libraries, GNU Scientific Library (GSL), Open-MPI
 
@@ -12,7 +12,7 @@ Compile using `./compile.sh ode13`
 Running the simulator
 ---------------------
  ```
- mpirun -n 8 ~/EvoStat/a.out reactants.dat reactions.dat \
+ mpirun -n 8 ~/SilicoStat/a.out reactants.dat reactions.dat \
   fitnessparam:10 \
   fitnessparam2:0 \
   runtime:75 \
