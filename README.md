@@ -1,7 +1,7 @@
 SilicoStat
 =======
 
-SilicoStat is a reaction simulator that generates biochemical circuits with desired functions. 
+SilicoStat is a reaction simulator that evolves biochemical circuits with specified functions. 
 
 Requires: SUNDIALS ODE Solver (libsundials-serial-dev package on Ubuntu), Boost libraries, GNU Scientific Library (GSL), Open-MPI
 
